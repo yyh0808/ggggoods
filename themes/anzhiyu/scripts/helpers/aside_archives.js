@@ -92,7 +92,7 @@ hexo.extend.helper.register("aside_archives", function (options = {}) {
     result += "</span>";
 
     if (showCount) {
-      result += `<div class="card-archive-list-count-group"><span class="card-archive-list-count">${item.count}</span><span>篇</span></div>`;
+      result += `<div class="card-archive-list-count-group"><span class="card-archive-list-count">${item.count}</span><span>Article</span></div>`;
     }
     result += "</a>";
     result += "</li>";
