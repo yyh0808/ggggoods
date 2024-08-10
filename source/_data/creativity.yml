@@ -1,50 +1,65 @@
 - class_name: Unleash creativity
   creativity_list:
-    - name: Java
+    - name: Computer
       color: "#fff"
-      icon: https://bu.dusays.com/2023/04/09/643293b1184e9.jpg
-    - name: Docker
+      icon: https://img.ggggoods.com/2024/08/efbf77f421131a5a4172adb93b881908.png
+    - name: Color
       color: "#57b6e6"
-      icon: https://bu.dusays.com/2023/04/09/643293b0f0abe.png
-    - name: Photoshop
+      icon: https://img.ggggoods.com/2024/08/eaf733f5c6e10f3bfc806835fe8df272.png
+    - name: Headphone
       color: "#4082c3"
-      icon: https://bu.dusays.com/2022/12/15/639aa3a5c240e.png
-    - name: Node
+      icon: https://img.ggggoods.com/2024/08/e6c0ad8481d79d909a4a9833e527bf45.png
+    - name: MacBook
       color: "#333"
-      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
-    - name: Webpack
+      icon: https://img.ggggoods.com/2024/08/d8abb33a9bdf127598be9b0766e7786c.png
+    - name: Coffee
       color: "#2e3a41"
-      icon: https://bu.dusays.com/2023/04/09/643293b68026c.png
-    - name: Pinia
+      icon: https://img.ggggoods.com/2024/08/c16423e70ed137cb5326ac056f1a59f5.png
+    - name: Computer
       color: "#fff"
-      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/pinia-logo.svg
-    - name: Python
+      icon: https://img.ggggoods.com/2024/08/b72aa66728fcff6a0d30ecaa67ad5f25.png
+    - name: GraphCard
       color: "#fff"
-      icon: https://bu.dusays.com/2023/04/09/643293b1230f7.png
-    - name: Vite
+      icon: https://img.ggggoods.com/2024/08/7970840d7b05cf4b262125321e59ef82.png
+    - name: phone
       color: "#937df7"
-      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/vite-logo.svg
-    - name: Flutter
+      icon: https://img.ggggoods.com/2024/08/77567d5f8cc9c41851b6a293ab2e2ca5.png
+    - name: Macbook
       color: "#4499e4"
-      icon: https://bu.dusays.com/2023/04/09/643293b1055c2.png
-    - name: Vue
+      icon: https://img.ggggoods.com/2024/08/404cc484add6f4050d6dea85f2453236.png
+    - name: Card4090
       color: "#b8f0ae"
-      icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png
-    - name: React
+      icon: https://img.ggggoods.com/2024/08/248a374e1e8b53e4f86dd2ef2b8aa72e.png
+    - name: Phone
       color: "#222"
-      icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
-    - name: CSS3
+      icon: https://img.ggggoods.com/2024/08/83b126447cb4bf30158ada47d026f70c.png
+    - name: Bag
       color: "#2c51db"
-      icon: https://bu.dusays.com/2022/12/15/639aa3a5c251e.png
-    - name: JS
+      icon: https://img.ggggoods.com/2024/08/82a09a2762508410f4ca5a5d84ab6c8f.png
+    - name: Cup
       color: "#f7cb4f"
-      icon: https://bu.dusays.com/2023/04/09/643293b121f02.png
-    - name: HTML
+      icon: https://img.ggggoods.com/2024/08/6be9318421e933597e2c6309cfed2dc2.png
+    - name: Lipstick
       color: "#e9572b"
-      icon: https://bu.dusays.com/2022/12/15/639aa3a5c241c.png
+      icon: https://img.ggggoods.com/2024/08/3acfe9c5fc2c5709c5870ff3dea9bc1b.png
     - name: Git
       color: "#df5b40"
-      icon: https://bu.dusays.com/2023/04/09/643293b10ccdd.webp
+      icon: https://img.ggggoods.com/2024/08/77567d5f8cc9c41851b6a293ab2e2ca5.png
     - name: Apifox
       color: "#e65164"
-      icon: https://bu.dusays.com/2022/11/19/6378d6458c6b6.png
+      icon: https://img.ggggoods.com/2024/08/d8abb33a9bdf127598be9b0766e7786c.png
+    - name: Coffee
+      color: "#2e3a41"
+      icon: https://img.ggggoods.com/2024/08/c16423e70ed137cb5326ac056f1a59f5.png
+    - name: Computer
+      color: "#fff"
+      icon: https://img.ggggoods.com/2024/08/b72aa66728fcff6a0d30ecaa67ad5f25.png
+    - name: GraphCard
+      color: "#fff"
+      icon: https://img.ggggoods.com/2024/08/7970840d7b05cf4b262125321e59ef82.png
+    - name: phone
+      color: "#937df7"
+      icon: https://img.ggggoods.com/2024/08/77567d5f8cc9c41851b6a293ab2e2ca5.png
+    - name: Macbook
+      color: "#4499e4"
+      icon: https://img.ggggoods.com/2024/08/404cc484add6f4050d6dea85f2453236.png
