@@ -104,3 +104,4 @@ deploy:
   type: git
   repo: https://github.com/yyh0808/ggggoods.git
   branch: master
+  message: update new post
