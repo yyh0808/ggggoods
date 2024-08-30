@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/Surreal,science fiction,AI视频,AI video,technology,tech,diagrams,renderings,colors_20240830_00001_.png
 ---
 
 "This article explores the role of AI in revolutionizing video production and viewing experiences. It discusses the various applications of AI in video content creation, editing, and analysis, as well as the benefits of using AI-powered tools for enhancing viewer engagement and personalization."
