@@ -1286,7 +1286,7 @@ const anzhiyu = {
     if (!$categoryBar) return;
 
     if (urlinfo === "/") {
-      $categoryBar.querySelector("#首页").classList.add("select");
+      $categoryBar.querySelector("#Homepage").classList.add("select");
     } else {
       const pattern = /\/categories\/.*?\//;
       const patbool = pattern.test(urlinfo);
