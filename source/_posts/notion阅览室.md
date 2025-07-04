@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: https://img.ggggoods.com/2024/08/645fa415e86941.png
+cover:
 ---
 
 "This article provides an in-depth exploration of Notion阅览室, a feature within Notion that allows users to organize, track, and enhance their reading experience. Discover how Notion阅览室 can help you create curated reading lists, store reading materials, and optimize your reading habits."
