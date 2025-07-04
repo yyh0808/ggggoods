@@ -587,11 +587,11 @@ google_adsense:
 
 site_verification:
   - name: google-site-verification
-    content: xxx
+    content: # 请在Google Search Console获取验证码后填入
   - name: baidu-site-verification
-    content: code-xxx
+    content: # 请在百度站长平台获取验证码后填入
   - name: msvalidate.01
-    content: xxx
+    content: # 请在Bing站长工具获取验证码后填入
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------
@@ -804,7 +804,7 @@ aside:
   card_weixin:
     enable: true
     face: https://img.ggggoods.com/2024/08/63c02edf44033.png
-    backFace: https://img.ggggoods.com/2024/08/645fa415e86941.png
+    backFace: # 已移除指定图片
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://ggggoods.com
-permalink: :year/:month/:day/:title/
+url: https://ggggoods.com
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -105,3 +105,29 @@ deploy:
   repo: https://github.com/yyh0808/ggggoods.git
   branch: master
   message: update new post
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
+  rel: false
+  tags: true
+  categories: true
+
+# Robots.txt
+robotstxt:
+  useragent: "*"
+  disallow:
+    - /js/
+    - /css/
+    - /fonts/
+  allow:
+    - /
+  sitemap: https://ggggoods.com/sitemap.xml
+
+# SEO
+seo:
+  enable: true
+  data:
+    image:
+      twitter: https://img.ggggoods.com/2024/08/android-chrome-512x512.png
+      facebook: https://img.ggggoods.com/2024/08/android-chrome-512x512.png

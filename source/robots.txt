@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and system directories
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /node_modules/
+
+# Allow important pages
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /about/
+
+# Sitemap location
+Sitemap: https://ggggoods.com/sitemap.xml
