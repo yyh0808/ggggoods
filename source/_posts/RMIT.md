@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86943.png
 ---
 
 "This article explores the Royal Melbourne Institute of Technology (RMIT) and its contributions to education and research. RMIT, a leading university in Melbourne, Australia, is known for its innovative programs, industry partnerships, and cutting-edge research initiatives."

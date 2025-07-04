@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86943.png
 ---
 
 "This article delves into the significance of U盘, also known as USB flash drives, in modern computing. It explores the portability, durability, and security features of U盘 that make it an essential tool for data storage and transfer in various fields."

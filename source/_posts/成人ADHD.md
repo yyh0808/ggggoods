@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86945.png
 ---
 
 "Adult ADHD, a neurodevelopmental disorder that persists into adulthood, presents challenges in diagnosis and management. This article explores the symptoms, diagnosis, and treatment options for adults with ADHD, highlighting the importance of comprehensive care and support."

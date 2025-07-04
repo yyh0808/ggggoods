@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86945.png
 ---
 
 "DJ music, a fascinating blend of artistry and technology, has transformed the music industry with its innovative approach to mixing and remixing songs. This article delves into the vibrant world of DJ music, exploring its impact on music culture and its ability to bring people together through the power of music."

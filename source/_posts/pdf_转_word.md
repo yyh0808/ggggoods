@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86946.png
 ---
 
 Converting PDF to Word is a practical solution for editing and collaborating on documents. This article explores various methods and benefits of converting PDF files to Word format.

@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86942.png
 ---
 
 "The midjourney phase of life is a transformative period marked by introspection, growth, and self-discovery. Navigating this phase requires resilience, self-awareness, and a willingness to embrace change. Embracing uncertainty and cultivating mindfulness can lead to profound personal development and a renewed sense of purpose.

@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/Surreal%2Cscience%20fiction%2CAI%2Ctechnology%2Ctech%2Cdiagrams%2Crenderings%2Ccolors_20240830_00001_.png
 ---
 
 "AI painting, or AI绘画, combines artificial intelligence and painting to create unique and innovative artworks. Artists and technologists are exploring the creative potential of AI in art, challenging traditional notions of artistic expression and creativity."

@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/Surreal%2Cscience%20fiction%2CAI%2Ctechnology%2Ctech%2Cdiagrams%2Crenderings%2Ccolors_20240830_00001_.png
 ---
 
 "This article explores the concept of AI副业, or AI side hustles, which have become a popular way for individuals to monetize their AI skills. By engaging in various AI-related activities, individuals can supplement their income and contribute to the development of AI technology in different industries."

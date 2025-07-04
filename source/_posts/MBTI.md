@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86949.png
 ---
 
 "The Myers-Briggs Type Indicator (MBTI) is a widely used personality assessment tool that categorizes individuals into specific personality types based on four dichotomies. This article explores the utility of MBTI in personal growth, career development, and team dynamics, while also acknowledging its limitations."

@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86942.png
 ---
 
 "Flux is a significant concept in science and engineering, representing the flow of substances or energy across boundaries. This article explores the importance of flux in physics, engineering, and environmental science, highlighting its applications in various fields and its mathematical representations."

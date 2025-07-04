@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86949.png
 ---
 
 "This article provides an overview of IP addresses and their significance in computer networking. It explains the role of IP addresses in enabling communication between devices on the internet and highlights the differences between IPv4 and IPv6 addresses. Furthermore, it explores the various functions performed by IP addresses, such as geolocation tracking and network security management."

@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86944.png
 ---
 
 "This article delves into the artistic legacy of Claude Monet, a trailblazing French painter known for his innovative approach to capturing light and atmosphere in his iconic works. We explore Monet's impact on the art world and his unique style that continues to resonate with art lovers globally."

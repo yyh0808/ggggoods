@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86948.png
 ---
 
 "Discover the world of Shopify, a versatile e-commerce platform that empowers businesses of all sizes to create and manage online stores. From its user-friendly interface to its scalable infrastructure and extensive app ecosystem, Shopify offers a comprehensive solution for selling products and services online."

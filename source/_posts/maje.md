@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: 
+cover: https://img.ggggoods.com/2024/08/645fa415e86949.png
 ---
 
 "This article delves into the world of Maje, a leading French fashion brand known for its stylish and contemporary designs. Founded by Judith Milgrom in 1998, Maje has gained significant popularity for its blend of Parisian elegance and urban flair. Offering a wide range of clothing, accessories, and shoes, Maje appeals to the modern woman who seeks fashion-forward pieces that seamlessly transition from day to night."
