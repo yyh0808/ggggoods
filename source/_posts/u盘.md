@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: https://img.ggggoods.com/2024/08/645fa415e86943.png
+cover: https://img.ggggoods.com/2024/08/Surreal,science fiction,u盘,U disk,technology,tech,diagrams,renderings,colors_20240830_00001_.png
 ---
 
 "This article delves into the significance of U盘, also known as USB flash drives, in modern computing. It explores the portability, durability, and security features of U盘 that make it an essential tool for data storage and transfer in various fields."

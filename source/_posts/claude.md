@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: https://img.ggggoods.com/2024/08/645fa415e86944.png
+cover: https://img.ggggoods.com/2024/08/Surreal,science fiction,claude,claude,technology,tech,diagrams,renderings,colors_20240830_00001_.png
 ---
 
 "This article delves into the artistic legacy of Claude Monet, a trailblazing French painter known for his innovative approach to capturing light and atmosphere in his iconic works. We explore Monet's impact on the art world and his unique style that continues to resonate with art lovers globally."

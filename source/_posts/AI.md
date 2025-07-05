@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: https://img.ggggoods.com/2024/08/Surreal%2Cscience%20fiction%2CAI%2Ctechnology%2Ctech%2Cdiagrams%2Crenderings%2Ccolors_20240830_00001_.png
+cover: https://img.ggggoods.com/2024/08/Surreal,science fiction,AI,AI,technology,tech,diagrams,renderings,colors_20240830_00001_.png
 ---
 
 "Artificial Intelligence (AI) has evolved from a futuristic concept to a present-day reality, impacting various aspects of our lives. This article explores the origins of AI, its current applications, and the ethical considerations surrounding its development."

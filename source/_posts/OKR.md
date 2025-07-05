@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: https://img.ggggoods.com/2024/08/645fa415e86943.png
+cover: https://img.ggggoods.com/2024/08/Surreal,science fiction,OKR,OKR,technology,tech,diagrams,renderings,colors_20240830_00001_.png
 ---
 
 "Objectives and Key Results (OKR) is a goal-setting framework popularized by companies like Google and Intel. It involves setting ambitious objectives and defining measurable key results to track progress towards achieving those objectives. OKR promotes alignment, transparency, and accountability throughout organizations."

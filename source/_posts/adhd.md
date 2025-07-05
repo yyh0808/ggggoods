@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: https://img.ggggoods.com/2024/08/645fa415e86950.png
+cover: https://img.ggggoods.com/2024/08/Surreal,science fiction,adhd,adhd,technology,tech,diagrams,renderings,colors_20240830_00001_.png
 ---
 
 "ADHD, or Attention Deficit Hyperactivity Disorder, is a common neurodevelopmental disorder characterized by inattention, hyperactivity, and impulsivity. This article explores the symptoms, causes, and treatment options for ADHD, emphasizing the importance of personalized care and guidance from healthcare professionals."

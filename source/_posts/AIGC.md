@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: https://img.ggggoods.com/2024/08/Surreal%2Cscience%20fiction%2CAI%2Ctechnology%2Ctech%2Cdiagrams%2Crenderings%2Ccolors_20240830_00001_.png
+cover: https://img.ggggoods.com/2024/08/Surreal,science fiction,AIGC,AIGC,technology,tech,diagrams,renderings,colors_20240830_00001_.png
 ---
 
 "This article explores the role of the American Indian Graduate Center (AIGC) in supporting Native American and Alaska Native students in their pursuit of higher education. Established in 1969, AIGC offers scholarships, fellowships, and other programs to empower indigenous students and promote academic success. Through its initiatives, AIGC plays a crucial role in advancing educational opportunities for Native American communities."

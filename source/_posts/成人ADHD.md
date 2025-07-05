@@ -7,7 +7,7 @@ tags:
   - web
 categories:
   - Goods
-cover: https://img.ggggoods.com/2024/08/645fa415e86945.png
+cover: https://img.ggggoods.com/2024/08/Surreal,science fiction,成人ADHD,Adult ADHD,technology,tech,diagrams,renderings,colors_20240830_00001_.png
 ---
 
 "Adult ADHD, a neurodevelopmental disorder that persists into adulthood, presents challenges in diagnosis and management. This article explores the symptoms, diagnosis, and treatment options for adults with ADHD, highlighting the importance of comprehensive care and support."
