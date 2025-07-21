@@ -14,11 +14,11 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://ggggoods.com
-permalink: :title/
+permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -120,9 +120,18 @@ robotstxt:
     - /js/
     - /css/
     - /fonts/
+    - /img/
+    - /cdn-cgi/
+    - /page/
   allow:
     - /
+    - /archives/
+    - /categories/
+    - /tags/
+    - /about/
+    - /essay/
   sitemap: https://ggggoods.com/sitemap.xml
+  crawl_delay: 1
 
 # SEO
 seo:
@@ -131,3 +140,23 @@ seo:
     image:
       twitter: https://img.ggggoods.com/2024/08/android-chrome-512x512.png
       facebook: https://img.ggggoods.com/2024/08/android-chrome-512x512.png
+
+# SEO optimization
+seo_optimization:
+  enable: true
+  canonical: true
+  meta_keywords: true
+  meta_description: true
+  og_tags: true
+  twitter_cards: true
+
+# Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: true
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date

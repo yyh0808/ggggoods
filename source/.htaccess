@@ -1,0 +1,28 @@
+# SEO friendly redirects
+RewriteEngine On
+
+# Remove trailing index.html
+RewriteCond %{THE_REQUEST} /(.+)/index\.html(\?[^\s]*)?[\s?]
+RewriteRule ^ /%1/ [R=301,L]
+
+# Remove trailing .html
+RewriteCond %{THE_REQUEST} /([^.\s]+?)\.html(\?[^\s]*)?[\s?]
+RewriteRule ^ /%1/ [R=301,L]
+
+# Handle 404 errors
+ErrorDocument 404 /404.html
+
+# Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Handle CDN-CGI requests
+RewriteCond %{REQUEST_URI} ^/cdn-cgi/
+RewriteRule ^(.*)$ - [F,L]
+
+# Set cache headers for static files
+<filesMatch "\.(css|js|png|jpg|jpeg|gif|ico|svg)$">
+ExpiresActive On
+ExpiresDefault "access plus 1 month"
+Header append Cache-Control "public"
+</filesMatch>
